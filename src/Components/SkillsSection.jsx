@@ -1,5 +1,4 @@
-import { makeStyles } from "@material-ui/styles"
-import { SkillCard } from "./SkillCard"
+ import { SkillCard } from "./SkillCard"
 import styles from "./Styles/SkillsSection.module.css"
 import { GrReactjs } from "react-icons/gr"
 import { SiRedux } from "react-icons/si"
