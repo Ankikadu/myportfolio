@@ -25,7 +25,7 @@ const projects = [
   {
     name: "BestBuy.com clone",
     img: "/Bestbuy.png",
-    // link: " ",
+    link: "https://merry-kitten-8e2680.netlify.app/",
     git: "https://github.com/Ankikadu/Best_buy_wesite_clone_project.git",
     about:
       " BestBuy is a online shooping website. This was a team project where I with my teammates had created a shopping platform specially for electronics product. Tech Stack which we used in this project is HTML, CSS, JS.",
