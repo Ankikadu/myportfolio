@@ -10,7 +10,7 @@ const projects = [
   {
     name: "Zappos.com clone",
     img: "/zappos.png",
-    // link: " ",
+    link: "https://zapposwebsite.vercel.app/",
     git: "https://github.com/Ankikadu/Zappos.git",
     about:
       "Zappos is a website use for online shopping specially for women clothes. Implemented features to get data from backend.",
